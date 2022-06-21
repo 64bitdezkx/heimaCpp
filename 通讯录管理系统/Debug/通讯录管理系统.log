@@ -1,0 +1,3 @@
+﻿  通讯录管理系统.cpp
+G:\Study\C++\heimaCpp\通讯录管理系统\通讯录管理系统.cpp(125): warning C4715: “isExist”: 不是所有的控件路径都返回值
+  通讯录管理系统.vcxproj -> G:\Study\C++\heimaCpp\heima\Debug\通讯录管理系统.exe
