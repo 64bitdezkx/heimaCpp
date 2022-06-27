@@ -1,5 +1,6 @@
 ﻿  拷贝构造函数调用时机.cpp
-  构造函数的分类.cpp
   构造函数调用规则.cpp
+  深拷贝与浅拷贝.cpp
+  类对象作为类成员.cpp
   正在生成代码...
   对象的初始化和清理.vcxproj -> G:\Study\C++\heimaCpp\heima\Debug\对象的初始化和清理.exe

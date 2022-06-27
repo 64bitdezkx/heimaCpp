@@ -1,0 +1,7 @@
+﻿  成员函数做友元.cpp
+G:\Study\C++\heimaCpp\友元\成员函数做友元.cpp(14,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+G:\Study\C++\heimaCpp\友元\成员函数做友元.cpp(14,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\Study\C++\heimaCpp\友元\成员函数做友元.cpp(14,23): error C2238: 意外的标记位于“;”之前
+G:\Study\C++\heimaCpp\友元\成员函数做友元.cpp(9,9): error C2065: “building”: 未声明的标识符
+G:\Study\C++\heimaCpp\友元\成员函数做友元.cpp(9,24): error C2061: 语法错误: 标识符“Building”
+G:\Study\C++\heimaCpp\友元\成员函数做友元.cpp(18,13): error C2065: “building”: 未声明的标识符
